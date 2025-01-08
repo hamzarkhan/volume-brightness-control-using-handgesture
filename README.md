@@ -1,1 +1,1 @@
-Hand Gesture using open cv
+Controlling brightness and Volume using Hand Gesture
