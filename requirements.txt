@@ -1,0 +1,6 @@
+opencv-python==4.8.0.74
+mediapipe==0.10.0
+screen-brightness-control==0.15.1
+numpy==1.23.5
+pycaw==20230418
+comtypes==1.1.14
